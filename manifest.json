@@ -2,24 +2,23 @@
   "name": "My Trello Power-Up",
   "description": "A simple Power-Up for Trello.",
   "icon": {
-    "url": "https://yourdomain.com/icon.png"
+    "url": "https://ryagit.github.io/trello/icon.png"
   },
-  "author": "Your Name",
   "capabilities": {
     "card-buttons": {
-      "url": "https://yourdomain.com/index.html",
+      "url": "https://ryagit.github.io/trello/index.html",
       "fullscreen": false
     },
     "board-buttons": {
-      "url": "https://yourdomain.com/index.html",
+      "url": "https://ryagit.github.io/trello/index.html",
       "fullscreen": true
     }
   },
   "connectors": {
     "iframe": {
-      "url": "https://yourdomain.com/index.html"
+      "url": "https://ryagit.github.io/trello/index.html"
     }
   },
   "apiVersion": 1,
-  "documentation": "https://yourdomain.com/docs"
+  "documentation": "https://ryagit.github.io/trello/docs"
 }
